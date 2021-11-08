@@ -414,6 +414,12 @@ button {
     display: none;
     z-index: 999;
 }
+.modal-thanks{
+	background: white;
+	justify-content: center;
+	align-items: center;
+	font-size: 20px;
+}
 
 .modal-auth {
     position: fixed;
