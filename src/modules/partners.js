@@ -55,4 +55,6 @@ fetch(`https://test-97990-default-rtdb.firebaseio.com/db/partners.json`)
 	.catch((err) => console.log(err))
 
 }
-partners()
+
+export default partners
+// partners()
